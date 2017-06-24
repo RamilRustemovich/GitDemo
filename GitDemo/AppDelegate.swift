@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         print("Hello World")
         print("test branch")
+        print("new commit 10")
         return true
     }
 
